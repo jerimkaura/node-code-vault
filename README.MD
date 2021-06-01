@@ -1,1 +1,4 @@
-Mini projects implemented in nodejs
+### Mini projects implemented in nodejs
+
+1. Sending SMS using Nexmo in Nodejs
+2. Push Notifications in Nodejs using Service workers
